@@ -13,7 +13,7 @@
 #define BUFFER_SIZE 2048
 #define STANDARD_PORT 80
 
-// Global statistics
+// Global variables
 int total_requests = 0;
 int total_bytes_in = 0;
 int total_bytes_out = 0;
